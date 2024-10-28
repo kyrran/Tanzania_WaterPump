@@ -3,7 +3,7 @@
 ## Project Overview
 This project explores the factors affecting the functionality of human-powered water pumps in Tanzania, using machine learning models to predict pump failure based on population density and management type. The project aims to support water management in Tanzania by identifying key factors that could guide better maintenance and resource allocation.
 
-**Project Foundation**: Built upon the [Pump It Up: Data Mining the Water Table](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/) competition by DrivenData, focused on predicting the functionality of water points in Tanzania to improve resource allocation and water accessibility.
+This project is built upon the [Pump It Up: Data Mining the Water Table](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/) competition by DrivenData, focused on predicting the functionality of water points in Tanzania to improve resource allocation and water accessibility.
 - 
 ## Dataset
 The analysis uses data from Taarifa’s waterpoint dashboard, encompassing 59,401 entries with various features related to the water points' operational status, population density, and management. 
